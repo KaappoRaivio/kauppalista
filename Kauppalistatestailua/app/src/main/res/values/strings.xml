@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kauppalistatestailua</string>
+    <string name="button_kotona">Kotona</string>
+    <string name="button_kaupassa">Kaupassa</string>
+</resources>
